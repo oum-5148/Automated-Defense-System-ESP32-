@@ -1,3 +1,10 @@
+/*
+
+  Automated Defense system simulation using ESP32
+  Author: OBR
+  link: https://wokwi.com/projects/426251415580474369 
+*/
+
 
 #include <ESP32Servo.h>
 #include <Wire.h>
