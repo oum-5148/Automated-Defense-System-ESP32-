@@ -1,5 +1,5 @@
 # Automated-Defense-System-ESP32-
-ddd
+This project simulates a smart automated turret system using an ESP32, designed to detect and respond to intrusions in real time. A servo motor rotates an ultrasonic sensor across a 180° field of view to scan the area. Upon detecting an object within a critical range (150 cm), the system halts, triggers an alert through an LED and LCD display, and simulates a firing response. 
 # How it works
 
 🔹 180° area surveillance using servo-mounted ultrasonic sensor
